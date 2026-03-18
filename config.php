@@ -2,7 +2,7 @@
 session_start();	
 
 
-define("APP_PATH", "/home/sendajapan/public_html/");
+define("APP_PATH", "/home/globa225/sendajapan.com/");
 define("APP_URL", "https://sendajapan.com/");
 $page_name = "SENDA JAPAN";
 
